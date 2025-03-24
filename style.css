@@ -1,0 +1,60 @@
+.profile{
+    height: 700px;
+    width: 300px;
+    background-color: rgb(50, 58, 77);
+
+    display: inline-block;
+}
+.profilename{
+    height: 150px;
+    width: 400px;
+    background-color: rgb(232, 231, 236);
+    display: inline-block;
+    position:absolute;
+    bottom: 400px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 50px;
+    
+}
+h2{
+    color: white;
+    padding-left: 50px;
+}
+p{
+    color: white;
+    padding-left: 50px;
+}
+ul{
+    color: white;
+    padding-left: 70px;
+}
+h1{
+    color: rgb(53, 61, 71);
+    padding-left: 50px;
+}
+.a{
+    color: rgb(53, 61, 71) ;
+    padding-left: 50px;
+}
+.information{
+    width: 400px;
+    height: 530px;
+    background-color: white;
+    display: inline-block;
+    position:absolute;
+    top: 180px;
+}
+.b{
+    color: black;
+}
+.c{
+    color: black;
+    padding-left: 50px;
+}
+.d{
+    color: black;
+}
